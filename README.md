@@ -13,6 +13,7 @@ There are 6 attributes, including:
 - Purchase Address: address of ordering
 - 
 **2. Data Validation**
+
 Before jumping to the analysis process, we should do data pre-processing, including
 cleaning and transformation steps. The first thing I did was merge 12 months of sales
 data into a single CSV file. I also remove blank rows that had no data recorded and rows
